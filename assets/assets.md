@@ -7,10 +7,10 @@
 
 
 #### 
-| index | title | path | url  |
-| :-:   |  :-:  | :-:  | :-:  | 
-|  001  | md    | assets/md/md.md | https://github.com/noamkessler05/whatamess/blob/main/assets/md/md.md |
-|  002  | md/template | assets/md/template  | https://github.com/noamkessler05/whatamess/blob/main/assets/md/template/ | 
+| index | title | path |
+| :-:   |  :-:  | :-:  |
+|  001  | md    | [assets/md/md.md](https://github.com/noamkessler05/whatamess/blob/main/assets/md/md.md) |
+|  002  | md/template | [assets/md/template](https://github.com/noamkessler05/whatamess/blob/main/assets/md/template/)  |  
 
 ----
 

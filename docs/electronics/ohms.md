@@ -2,14 +2,14 @@
 
 # ohms  
 
-### V (voltage) 
+### V Electric Power (voltage) 
 * V = I x R
 
 ```
 V = I x R 
 ```
 
-### I (amper)
+### I Current (amper)
 
 * I = V / R
 ```

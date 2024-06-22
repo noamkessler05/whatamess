@@ -8,6 +8,12 @@
 | :-: | :-: | 
 | 1 | 1,000 | 
 
+# Kiloamperes to amperes
+| Kiloamperes | amperes | 
+| :-: | :-: | 
+| 1 kA | 1,000A | 
+
+
 ### volts units
 | volts | kilovolts | milivolts | 
 | :-: | :-: | :-: |

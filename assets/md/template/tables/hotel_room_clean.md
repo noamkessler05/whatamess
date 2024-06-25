@@ -1,6 +1,6 @@
 <a name="topage"></a>
 
-# table2col 
+# hotel_room_clean 
 
 ### Table use examples
 

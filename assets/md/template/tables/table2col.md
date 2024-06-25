@@ -1,6 +1,6 @@
 <a name="topage"></a>
 
-# table 
+# table2col 
 
 ### Table use examples
 
